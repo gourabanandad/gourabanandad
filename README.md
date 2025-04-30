@@ -34,3 +34,8 @@
 <p>&nbsp;<img align="center" width="400"  src="https://github-readme-stats.vercel.app/api?username=gourabanandad&show_icons=true&locale=en" alt="gourabanandad" /></p>
 
 <p><img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=gourabanandad&show_icons=true&locale=en" alt="gourabanandad" /></p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gourabanandad&theme=radical" alt="gourabanandad trophies"/>
+</p>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Gourab's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=gourabanandad&bg_color=1a1b27&color=9e9e9e&line=00e0ff&point=ffffff&area=true&hide_border=true" /></a>
