@@ -1,39 +1,77 @@
-![logo](https://github.com/gourabanandad/gourabanandad/blob/main/The%20Future%20Is%20Here!.png)
-<h1 align="center">Hi 👋, I'm Gourabananda Datta</h1>
-<h3 align="center">An AI and Cloud Engineer from India</h3>
-<img align="right" alt = "coding" width="300" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
+<div align="center">
+  <img src="https://github.com/gourabanandad/gourabanandad/blob/main/The%20Future%20Is%20Here!.png" width="100%" alt="Banner" />
+  
+  <h1 align="center">Hi, I'm Gourabananda Datta 👋</h1>
+  <h3 align="center">Computer Science Engineer | AI & Cloud Enthusiast</h3>
+  
+  <p align="center">
+    Student at <b>Ramkrishna Mahato Government Engineering College</b>
+  </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gourabanandad&label=Profile%20views&color=0e75b6&style=flat" alt="gourabanandad" /> </p>
+  <p align="center">
+    <a href="https://linkedin.com/in/gourabananda-datta-a3521a285" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:gourabanandad@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://dev.to/gourabanandad" target="_blank">
+      <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+    </a>
+  </p>
+  
+  <img src="https://komarev.com/ghpvc/?username=gourabanandad&label=Profile%20views&color=0e75b6&style=flat" alt="gourabanandad" />
+</div>
 
-- 🌱 I’m currently learning **Scikit-Learn, Pytorch**
+---
 
-- 💬 Ask me about **Python, C**
+### 👨‍💻 About Me
 
-- 📫 How to reach me **gourabanandad@gmail.com**
+I am a Computer Science and Engineering student passionate about solving complex problems. My focus bridges the gap between **low-level systems** (Operating Systems, Compilers) and **high-level intelligence** (Machine Learning, Computer Vision).
 
-- ⚡ Fun fact **I think I am funny.**
+- 🔭 I’m currently working on **MLOps pipelines and OCR models**.
+- 🌱 I’m currently deepening my knowledge in **Compiler Design** and **Node.js**.
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/gourabanandad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="gourabanandad" height="30" width="40" /></a>
-<a href="https://twitter.com/gourabanan88349" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gourabanan88349" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gourabananda-datta-a3521a285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gourabananda-datta-a3521a285" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/24996179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24996179" height="30" width="40" /></a>
-<a href="https://kaggle.com/gourabanandad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gourabanandad" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/user8281om" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user8281om" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/gourabanabyyh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gourabanabyyh" height="30" width="40" /></a>
-</p>
+### 🛠️ Technical Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+| **Domain** | **Technologies** |
+| :--- | :--- |
+| **Languages** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **AI & Data** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
+| **Cloud & DevOps** | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **Backend & DB** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) |
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gourabanandad&show_icons=true&locale=en&" alt="gourabanandad" /></p>
+---
 
-<p>&nbsp;<img align="center" width="400"  src="https://github-readme-stats.vercel.app/api?username=gourabanandad&show_icons=true&locale=en" alt="gourabanandad" /></p>
+### 🚀 Featured Projects
 
-<p><img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=gourabanandad&show_icons=true&locale=en" alt="gourabanandad" /></p>
+- **OCR & Table Extraction**: Implemented OCR models like `pix2table` for high-precision text and table extraction from images.
+- **pyfastmath**: A custom Python library optimized for high-performance mathematical computations.
+- **BERT Intent Classifier**: An NLP model fine-tuned on BERT architecture to classify user intent for conversational AI.
+- **Loan Default Classification**: A machine learning model designed to predict loan defaults based on financial data analysis.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gourabanandad&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gourabanandad&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gourabanandad&theme=radical&hide_border=true" alt="streak graph" />
+</div>
+
+---
+
+### 🤝 Connect with me
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gourabanandad&theme=radical" alt="gourabanandad trophies"/>
+<a href="https://twitter.com/gourabanan88349" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/24996179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="StackOverflow" height="30" width="40" /></a>
+<a href="https://kaggle.com/gourabanandad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/user8281om" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/gourabanabyyh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40" /></a>
 </p>
-
