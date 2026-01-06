@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="https://github.com/gourabanandad/gourabanandad/blob/main/The%20Future%20Is%20Here!.png" width="100%" alt="Banner" />
-  
-  <h1 align="center">Hi, I'm Gourabananda Datta 👋</h1>
-  <h3 align="center">Computer Science Engineer | AI & Cloud Enthusiast</h3>
-  
+  <h1>Hi there, I'm Gourabananda Datta 👋</h1>
+
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Computer+Science+Engineer;AI+%26+Cloud+Enthusiast;Building+Systems+%26+High-Level+Intelligence" alt="Typing SVG" />
+
   <p align="center">
     Student at <b>Ramkrishna Mahato Government Engineering College</b>
   </p>
@@ -23,6 +22,8 @@
   <img src="https://komarev.com/ghpvc/?username=gourabanandad&label=Profile%20views&color=0e75b6&style=flat" alt="gourabanandad" />
 </div>
 
+<br />
+
 ---
 
 ### 👨‍💻 About Me
@@ -31,6 +32,8 @@ I am a Computer Science and Engineering student passionate about solving complex
 
 - 🔭 I’m currently working on **MLOps pipelines and OCR models**.
 - 🌱 I’m currently deepening my knowledge in **Compiler Design** and **Node.js**.
+- ☁️ I have experience configuring bare-metal servers (Dell PowerEdge) and Linux environments.
+
 ---
 
 ### 🛠️ Technical Stack
