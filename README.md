@@ -32,8 +32,6 @@ I am a Computer Science and Engineering student passionate about solving complex
 
 - 🔭 I’m currently working on **MLOps pipelines and OCR models**.
 - 🌱 I’m currently deepening my knowledge in **Compiler Design** and **Node.js**.
-- ☁️ I have experience configuring bare-metal servers (Dell PowerEdge) and Linux environments.
-
 ---
 
 ### 🛠️ Technical Stack
