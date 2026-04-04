@@ -58,8 +58,8 @@ I am a Computer Science and Engineering student passionate about solving complex
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gourabanandad&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gourabanandad&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+  <img src="github-stats.svg" height="150" alt="stats graph" />
+  <img src="top-langs.svg" height="150" alt="languages graph" />
 </div>
 <br>
 <div align="center">
