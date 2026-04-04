@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Gourabananda Datta 👋</h1>
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Computer+Science+Engineer;AI+%26+Cloud+Enthusiast;Building+Systems+%26+High-Level+Intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Computer+Science+Engineer;AI+%26+Cloud+Enthusiast;Building+Systems+%26+High-Level+Intelligence" alt="Typing SVG" />
 
   <p align="center">
     Student at <b>Ramkrishna Mahato Government Engineering College</b>
@@ -32,6 +32,7 @@ I am a Computer Science and Engineering student passionate about solving complex
 
 - 🔭 I’m currently working on **MLOps pipelines and OCR models**.
 - 🌱 I’m currently deepening my knowledge in **Compiler Design** and **Node.js**.
+
 ---
 
 ### 🛠️ Technical Stack
@@ -62,7 +63,7 @@ I am a Computer Science and Engineering student passionate about solving complex
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gourabanandad&theme=radical&hide_border=true" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com/?user=gourabanandad&theme=radical&hide_border=true" alt="streak graph" />
 </div>
 
 ---
