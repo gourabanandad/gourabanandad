@@ -36,4 +36,5 @@ jobs:
           git config --local user.name "GitHub Action"
           git add github-stats.svg top-langs.svg
           git commit -m "Auto-update GitHub stats via Marketplace Action" || echo "No changes to commit"
+          git pull origin main --rebase
           git push
