@@ -30,8 +30,8 @@
 
 I am a Computer Science and Engineering student passionate about solving complex problems. My focus bridges the gap between **low-level systems** (Operating Systems, Compilers) and **high-level intelligence** (Machine Learning, Computer Vision).
 
-- 🔭 I’m currently working on **MLOps pipelines and OCR models**.
-- 🌱 I’m currently deepening my knowledge in **Compiler Design** and **Node.js**.
+- 🔭 I’m currently working on **a python library error-translator-cli-v2**.
+- 🌱 I’m currently deepening my knowledge in **Operating System** and **Computer Networks**.
 
 ---
 
