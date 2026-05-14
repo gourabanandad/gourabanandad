@@ -52,7 +52,8 @@ I am a Computer Science and Engineering student passionate about solving complex
 - **pyfastmath**: A custom Python library optimized for high-performance mathematical computations.
 - **BERT Intent Classifier**: An NLP model fine-tuned on BERT architecture to classify user intent for conversational AI.
 - **Loan Default Classification**: A machine learning model designed to predict loan defaults based on financial data analysis.
-
+- **Error Translator CLI**: An opensource python library that detect traceback errors and make it easy to understand in cli in offline.
+- **Plan Eventz**: An application to create, manage occasions along with its events. The app is live in playstore.
 ---
 
 ### 📊 GitHub Stats
