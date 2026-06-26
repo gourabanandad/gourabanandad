@@ -59,13 +59,16 @@ I am a Computer Science and Engineering student passionate about solving complex
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="github-stats.svg" height="150" alt="stats graph" />
-  <img src="top-langs.svg" height="150" alt="languages graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gourabanandad&theme=github_dark" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gourabanandad&theme=github_dark" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gourabanandad&theme=github_dark" width="32%"/>
 </div>
-<br>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=gourabanandad&theme=radical&hide_border=true" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gourabanandad&theme=tokyonight&hide_border=true&font=JetBrains+Mono" width="65%" />
 </div>
+
+![Gourabananda's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gourabanandad&bg_color=0d1117&color=58a6ff&line=8b949e&point=f7786b&area=true&hide_border=false)
 
 ---
 
