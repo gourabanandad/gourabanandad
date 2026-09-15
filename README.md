@@ -48,6 +48,7 @@ I am a Computer Science and Engineering student passionate about solving complex
 
 ### 🚀 Featured Projects
 
+- **Real UUID Generator** — [realuuidgenerator.com](https://realuuidgenerator.com): A production-grade online UUID tool supporting versions 1-7 with bulk generation, UUID decoding, and multi-language code examples. Built with Astro + TypeScript + Tailwind CSS, deployed on Cloudflare Pages. 100% client-side with zero data collection.
 - **OCR & Table Extraction**: Implemented OCR models like `pix2table` for high-precision text and table extraction from images.
 - **pyfastmath**: A custom Python library optimized for high-performance mathematical computations.
 - **BERT Intent Classifier**: An NLP model fine-tuned on BERT architecture to classify user intent for conversational AI.
