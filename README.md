@@ -45,23 +45,38 @@
 
 ### 👨‍💻 About Me
 
-```yaml
-name: Gourabananda Datta
-role: Computer Science & Engineering Undergrad
-core_focus:
-  - Low-Level Systems & Compilers (OS, C/Rust, CPython Extensions)
-  - Artificial Intelligence & Deep Learning (PyTorch, CV, NLP)
-current_building:
-  - error-translator-cli-v2 (Offline traceback comprehension engine)
-  - Face-Sort-AI (Intelligent deep learning face clustering)
-  - Real UUID Generator (Production v1-v7 online UUID suite)
-hobbies: Reading tech documentation, contributing to open-source, and competitive coding
-```
+<p align="justify">
+  I am a <b>Computer Science and Engineering</b> undergraduate at <b>Ramkrishna Mahato Government Engineering College</b>, passionate about engineering robust, performance-critical software and solving intricate computational problems. My work operates at the intersection of <b>low-level systems</b> (Operating Systems, Compilers, C/Rust native runtimes, and CPython C-extensions) and <b>applied artificial intelligence</b> (Deep Learning, Computer Vision, and NLP Transformers).
+</p>
 
-- 💡 Passionate about bridging the gap between **low-level systems** (Operating Systems, Compilers, native extensions) and **high-level intelligence** (Machine Learning, Computer Vision, Transformers).
-- 🛠️ Actively exploring cryptographic data structures like **Verkle Trees with KZG commitments in Rust** and high-performance **CPython native C-extensions**.
-- 💬 Ask me about **Python internals, PyTorch, C/Rust systems, and Cloud architecture**.
-- 📫 Reach out directly via [Email](mailto:gourabanandadatta@zohomail.in) or connect on [LinkedIn](https://linkedin.com/in/gourabananda-datta-a3521a285).
+<p align="justify">
+  Whether architecting offline traceback diagnosis engines using Python ASTs, implementing cryptographic polynomial commitments for stateless blockchains, or building production-grade web applications, I thrive on writing clean, mathematically sound, and scalable code.
+</p>
+
+<br />
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h4>🎯 Focus & What I'm Building</h4>
+        <ul>
+          <li>🛠️ <b>Developer Tooling:</b> Author of <a href="https://github.com/gourabanandad/error-translator-cli-v2"><b>error-translator-cli-v2</b></a> (PyPI), an offline rule-based traceback explanation engine.</li>
+          <li>🧠 <b>Computer Vision:</b> Creator of <a href="https://github.com/gourabanandad/Face-Sort-AI"><b>Face-Sort-AI</b></a>, an unsupervised face embedding and clustering pipeline for large photo datasets.</li>
+          <li>🌐 <b>Production Platforms:</b> Built <a href="https://realuuidgenerator.com"><b>Real UUID Generator</b></a> (v1–v7 online suite) and published <b>Plan Eventz</b> on the Google Play Store.</li>
+        </ul>
+      </td>
+      <td width="50%" valign="top">
+        <h4>⚡ Technical Edge & Interests</h4>
+        <ul>
+          <li>🔐 <b>Cryptographic Systems:</b> Implementing <a href="https://github.com/gourabanandad/verkle-tree"><b>Verkle Trees with KZG polynomial commitments</b></a> in Rust for stateless blockchain verification.</li>
+          <li>⚡ <b>Native Extensions:</b> Writing high-speed C modules exposed to Python (<a href="https://github.com/gourabanandad/pyfastmath"><b>pyfastmath</b></a>) to maximize computational throughput.</li>
+          <li>💬 <b>Get in Touch:</b> Open to discussions on systems architecture, ML research, open-source initiatives, and engineering roles!</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
