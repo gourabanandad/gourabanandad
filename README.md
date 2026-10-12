@@ -11,27 +11,6 @@
     🎓 <b>B.Tech in Computer Science & Engineering</b> at <b>Ramkrishna Mahato Government Engineering College</b>
   </p>
 
-  <!-- Visitor Count & Social Badges -->
-  <p align="center">
-    <a href="https://linkedin.com/in/gourabananda-datta-a3521a285" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:gourabanandadatta@zohomail.in">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://dev.to/gourabanandad" target="_blank">
-      <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
-    </a>
-    <a href="https://twitter.com/gourabanan88349" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-    </a>
-    <a href="https://kaggle.com/gourabanandad" target="_blank">
-      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-    </a>
-    <a href="https://www.leetcode.com/user8281om" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-    </a>
-  </p>
 
   <!-- High-Level GitHub KPI Badges -->
   <p align="center">
@@ -127,84 +106,130 @@
 
 ---
 
-### 📦 Published Packages & Open Source Impact
+### 📊 Developer Analytics & Impact
 
+<!-- 1. Contribution Streak -->
+<details open>
+<summary><b>🔥 Contribution & Commit Streak</b></summary>
+<br />
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <b>📦 error-translator-cli-v2 (PyPI)</b><br /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gourabanandad&theme=tokyonight&hide_border=true&background=0d1117" width="100%" alt="Streak Stats" />
+</div>
+</details>
+
+<br />
+
+<!-- 2. Core GitHub Overview & Languages -->
+<details open>
+<summary><b>⚡ GitHub Overview & Language Distribution</b></summary>
+<br />
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=gourabanandad&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gourabanandad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+</details>
+
+<br />
+
+<!-- 3. Deep Code Analytics (2x2 Matrix) -->
+<details open>
+<summary><b>📈 Deep Code Analytics & Productivity Breakdown</b></summary>
+<br />
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gourabanandad&theme=tokyonight" width="100%" alt="Repos per Language" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gourabanandad&theme=tokyonight" width="100%" alt="Most Commit Language" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gourabanandad&theme=tokyonight" width="100%" alt="Summary Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gourabanandad&theme=tokyonight" width="100%" alt="Productive Time" />
+    </td>
+  </tr>
+</table>
+</details>
+
+<br />
+
+<!-- 4. Problem Solving & Evaluation Radar -->
+<details open>
+<summary><b>🧠 Problem Solving & Developer Evaluation</b></summary>
+<br />
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h4>🏆 LeetCode Profile</h4>
+      <a href="https://www.leetcode.com/user8281om" target="_blank">
+        <img src="https://leetcard.jacoblin.cool/user8281om?theme=dark&font=JetBrains%20Mono" width="100%" alt="LeetCode Stats" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h4>📊 Developer Score Radar</h4>
+      <a href="https://gh-stats.com" target="_blank">
+        <img src="https://gh-stats.com/api?username=gourabanandad" width="100%" alt="GitHub Developer Score" />
+      </a>
+    </td>
+  </tr>
+</table>
+</details>
+
+<br />
+
+<!-- 5. Published Packages & PyPI Impact -->
+<details open>
+<summary><b>📦 Published Packages & Open Source Impact</b></summary>
+<br />
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <h4>📦 error-translator-cli-v2 (PyPI)</h4>
+      <p>
         <a href="https://pypi.org/project/error-translator-cli-v2/" target="_blank">
           <img src="https://img.shields.io/pypi/v/error-translator-cli-v2?style=for-the-badge&color=0E75B6&logo=pypi&logoColor=white" alt="PyPI Version" />
         </a>
         <a href="https://pypi.org/project/error-translator-cli-v2/" target="_blank">
           <img src="https://img.shields.io/pypi/dm/error-translator-cli-v2?style=for-the-badge&color=0E75B6&logo=pypi&logoColor=white" alt="Monthly Downloads" />
         </a>
-        <br /><br />
-        <a href="https://pepy.tech/project/error-translator-cli-v2" target="_blank">
-          <img src="https://static.pepy.tech/badge/error-translator-cli-v2" alt="Total Downloads" />
-        </a>
-      </td>
-      <td align="center" width="50%">
-        <b>⚡ pyfastmath (PyPI)</b><br /><br />
+      </p>
+      <a href="https://pepy.tech/project/error-translator-cli-v2" target="_blank">
+        <img src="https://static.pepy.tech/badge/error-translator-cli-v2" alt="Total Downloads" />
+      </a>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <h4>⚡ pyfastmath (PyPI)</h4>
+      <p>
         <a href="https://pypi.org/project/pyfastmath/" target="_blank">
           <img src="https://img.shields.io/pypi/v/pyfastmath?style=for-the-badge&color=0E75B6&logo=pypi&logoColor=white" alt="PyPI Version" />
         </a>
         <a href="https://pypi.org/project/pyfastmath/" target="_blank">
           <img src="https://img.shields.io/pypi/dm/pyfastmath?style=for-the-badge&color=0E75B6&logo=pypi&logoColor=white" alt="Monthly Downloads" />
         </a>
-        <br /><br />
-        <a href="https://pepy.tech/project/pyfastmath" target="_blank">
-          <img src="https://static.pepy.tech/badge/pyfastmath" alt="Total Downloads" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 📊 GitHub & Problem Solving Analytics
-
-<!-- GitHub Overview & Top Languages -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gourabanandad&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0d1117" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gourabanandad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="49%" alt="Top Languages" />
-</div>
+      </p>
+      <a href="https://pepy.tech/project/pyfastmath" target="_blank">
+        <img src="https://static.pepy.tech/badge/pyfastmath" alt="Total Downloads" />
+      </a>
+    </td>
+  </tr>
+</table>
+</details>
 
 <br />
 
-<!-- Streak Counter -->
+<!-- 6. Daily Tech Quote -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gourabanandad&theme=tokyonight&hide_border=true&background=0d1117" width="98%" alt="Streak Stats" />
-</div>
-
-<br />
-
-<!-- Profile Summary Cards: 2x2 Grid -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gourabanandad&theme=tokyonight" width="49%" alt="Summary Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gourabanandad&theme=tokyonight" width="49%" alt="Productive Time" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gourabanandad&theme=tokyonight" width="49%" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gourabanandad&theme=tokyonight" width="49%" alt="Most Commit Language" />
-</div>
-
-<br />
-
-<!-- Developer Evaluation Radar & Competitive Programming -->
-<div align="center">
-  <img src="https://gh-stats.com/api?username=gourabanandad" width="46%" alt="GitHub Developer Score" />
-  <img src="https://leetcard.jacoblin.cool/user8281om?theme=dark&font=JetBrains%20Mono" width="52%" alt="LeetCode Stats" />
-</div>
-
-<br />
-
-<!-- Dynamic Quote Card -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="98%" alt="Daily Tech Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Daily Tech Quote" />
 </div>
 
 ---
@@ -214,30 +239,35 @@
 <div align="center">
   <p>I'm always open to discussing new projects, open-source initiatives, research ideas, or tech opportunities!</p>
   
-  <a href="https://linkedin.com/in/gourabananda-datta-a3521a285" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:gourabanandadatta@zohomail.in">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://dev.to/gourabanandad" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
-  </a>
-  <a href="https://twitter.com/gourabanan88349" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://kaggle.com/gourabanandad" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-  <a href="https://www.leetcode.com/user8281om" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://stackoverflow.com/users/24996179" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/gourabanabyyh" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-  </a>
+  <p align="center">
+    <a href="mailto:gourabanandadatta@zohomail.in">
+      <img src="https://img.shields.io/badge/Email-gourabanandadatta%40zohomail.in-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://linkedin.com/in/gourabananda-datta-a3521a285" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://dev.to/gourabanandad" target="_blank">
+      <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+    </a>
+    <a href="https://twitter.com/gourabanan88349" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="https://www.leetcode.com/user8281om" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    </a>
+    <a href="https://kaggle.com/gourabanandad" target="_blank">
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+    </a>
+    <a href="https://stackoverflow.com/users/24996179" target="_blank">
+      <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow" />
+    </a>
+    <a href="https://auth.geeksforgeeks.org/user/gourabanabyyh" target="_blank">
+      <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+    </a>
+  </p>
 </div>
 
 <br />
