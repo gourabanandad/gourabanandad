@@ -1,10 +1,10 @@
 <div align="center">
-  <!-- Dynamic Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=220&section=header&text=Hi%20there,%20I'm%20Gourabananda%20👋&fontSize=38&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20AI%20%26%20Cloud%20Enthusiast&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+  <!-- Dynamic Header Banner (Capsule Render) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=220&section=header&text=Hi%20there,%20I%20am%20Gourabananda&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20AI%20and%20Cloud%20Enthusiast&descColor=ffffff&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
 
   <!-- Animated Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=Computer+Science+%26+Engineering+Student+🎓;AI+%26+Machine+Learning+Enthusiast+🤖;Building+Low-Level+Systems+%26+Intelligent+Software+⚙️;Open+Source+Contributor+%26+Lifelong+Learner+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Computer+Science+and+Engineering+Student;AI+and+Machine+Learning+Enthusiast;Building+Low-Level+Systems+and+Intelligent+Software;Open+Source+Contributor+and+Lifelong+Learner" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -35,8 +35,7 @@
 
   <!-- High-Level GitHub KPI Badges -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=gourabanandad&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/dynamic/json?color=0E75B6&label=TOTAL%20STARS&query=totalStars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fgourabanandad&style=for-the-badge&logo=star" alt="Total Stars" />
+    <img src="https://hits.sh/github.com/gourabanandad.svg?style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/gourabanandad?label=FOLLOWERS&style=for-the-badge&logo=github&color=0E75B6" alt="Followers" />
     <img src="https://img.shields.io/badge/REPOSITORIES-36-0E75B6?style=for-the-badge&logo=github" alt="Public Repositories" />
   </p>
