@@ -94,7 +94,6 @@
 
 | Project | Highlights & Description | Tech Stack | Status / Links |
 | :--- | :--- | :--- | :---: |
-| 🌐 [**Real UUID Generator**](https://realuuidgenerator.com) | Production-grade online UUID tool supporting v1–v7 with bulk generation, UUID decoding, and multi-language code examples. 100% client-side with zero tracking. | `Astro` `TypeScript` `Tailwind CSS` `Cloudflare Pages` | [Live Site ↗](https://realuuidgenerator.com) |
 | 🛠️ [**Error Translator CLI v2**](https://github.com/gourabanandad/error-translator-cli-v2) | Converts Python tracebacks into actionable, plain-English explanations using an offline rule engine. Includes CLI, auto-hook, and API support. | `Python` `AST` `CLI` `Rule Engine` | [Repository ↗](https://github.com/gourabanandad/error-translator-cli-v2) |
 | 👁️ [**Face-Sort-AI**](https://github.com/gourabanandad/Face-Sort-AI) | Intelligent face clustering system leveraging pretrained deep learning models for face detection, embeddings, and unsupervised clustering across photo collections. | `Python` `PyTorch` `Deep Learning` `OpenCV` | [Repository ↗](https://github.com/gourabanandad/Face-Sort-AI) |
 | 🔐 [**Verkle Tree**](https://github.com/gourabanandad/verkle-tree) | Implementation of Verkle trees with KZG polynomial commitments in Rust for efficient stateless blockchain verification. | `Rust` `KZG Commitments` `Ethereum Cryptography` | [Repository ↗](https://github.com/gourabanandad/verkle-tree) |
@@ -102,7 +101,7 @@
 | 🤖 [**BERT Intent Classifier**](https://github.com/gourabanandad/intent_classification) | Fine-tuned transformer model on BERT architecture to classify user intent for conversational AI and dialog systems. | `PyTorch` `Transformers` `BERT` `NLP` | [Repository ↗](https://github.com/gourabanandad/intent_classification) |
 | 📄 [**OCR & Table Extraction**](https://github.com/gourabanandad/OCR-updated) | Document AI system using `pix2table` and OpenCV for high-precision text and tabular layout extraction from documents. | `Python` `OpenCV` `Deep Learning` `OCR` | [Repository ↗](https://github.com/gourabanandad/OCR-updated) |
 | 💳 [**Loan Default Classifier**](https://github.com/gourabanandad/Predicting-Loan-Default-Classification) | Machine learning pipeline engineered to predict borrower loan defaults based on financial credit risk data. | `Scikit-Learn` `Pandas` `EDA` `Classification` | [Repository ↗](https://github.com/gourabanandad/Predicting-Loan-Default-Classification) |
-| 📱 **Plan Eventz** | Full-fledged event scheduling and occasion management application published on Google Play. | `Android` `Mobile` `Event Management` | [Play Store ↗](https://play.google.com) |
+| 📱 [**Plan Eventz**](https://www.planeventz.in/) | Full-fledged event scheduling and occasion management application published on Google Play. | `Android` `Mobile` `Event Management` | [Play Store ↗](https://play.google.com) |
 
 ---
 
